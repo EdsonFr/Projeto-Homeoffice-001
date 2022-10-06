@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.menu{
+    margin: 0 auto;
+    width: 90vw;
+    display: flex;
+    justify-content:space-between;
+
+}
+.servicos{
+    display: flex;
+    gap: 25px;
+}
+.container{
+    width: 90%;
+    background-color: aqua;
+
+}
